@@ -155,21 +155,20 @@ if (isset($_POST['update'])) {
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Your head content -->
+	
 </head>
 <body>
 	<div class="one">
 		<div class="row">
-			<!-- Your form and other HTML content -->
+			
 		</div>
 	</div>
 
-	<!-- Rest of your HTML content -->
 
 </body>
 
 <script>
-	// Your existing JavaScript code
+	
 </script>
 
 </html>
@@ -187,16 +186,15 @@ if (isset($_POST['update'])) {
 <body>
 	<div class="one">
 		<div class="row">
-			<!-- Your form and other HTML content -->
+		
 		</div>
 	</div>
 
-	<!-- Rest of your HTML content -->
 
 </body>
 
 <script>
-	// Your existing JavaScript code
+	
 </script>
 
 </html>
